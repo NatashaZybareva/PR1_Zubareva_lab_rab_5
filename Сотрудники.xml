@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns="XSD1.xsd"> Сотрудники <br />
+
+<Sotrudnik> <table border = "1"> <tr>
+<tr> <td> Сотрудник </td> <td> Информация о сотруднике </td></tr>
+<td> <table border="1"> <tr>
+<td>Код сотрудника</td>
+<td>Фамилия</td>
+</tr>
+
+<tr>
+<td><CodSotrudnika>1</CodSotrudnika></td>
+<td><FamilyName>Абрамов</FamilyName></td>
+</tr>
+
+<tr>
+<td><CodSotrudnika>2</CodSotrudnika></td>
+<td><FamilyName>Втюрин</FamilyName></td>
+</tr>
+
+<tr>
+<td><CodSotrudnika>3</CodSotrudnika></td>
+<td><FamilyName>Гордиенко</FamilyName></td>
+</tr>
+
+<tr>
+<td><CodSotrudnika>4</CodSotrudnika></td>
+<td><FamilyName>Домбровских</FamilyName></td>
+</tr>
+
+<tr>
+<td><CodSotrudnika>5</CodSotrudnika></td>
+<td><FamilyName>Комаров</FamilyName></td>
+</tr>
+</table>
+
+<td> <table border="1"> 
+<tr>
+<td>Имя</td>
+<td>Отчество</td>
+<td>Должность</td>
+<td>Дата приема на работу</td>
+</tr>
+<tr>
+<td><Name>Антон</Name></td>
+<td><Otchestvo>Алексеевич</Otchestvo></td>
+<td><Dolzhnost>Директор</Dolzhnost></td>
+<td><DatePriemaNaRabotu>12.05.2004</DatePriemaNaRabotu></td>
+</tr>
+
+<tr>Василий</Name></td>
+<td><Otchestvo>Викторович</Otchestvo></td>
+<td><Dolzhnost>Зам.директора</Dolzhnost></td>
+ <td><DatePriemaNaRabotu>24.10.2005</DatePriemaNaRabotu></td>
+</tr>
+
+<tr>
+<td><Name>Галина</Name></td>
+<td><Otchestvo>Геннадьевна</Otchestvo></td>
+<td><Dolzhnost>Бухгалтер</Dolzhnost></td>
+ <td><DatePriemaNaRabotu>01.09.2010</DatePriemaNaRabotu></td>
+</tr>
+
+<tr>
+<td><Name>Дарья</Name></td>
+<td><Otchestvo>Дмитриевна</Otchestvo></td>
+<td><Dolzhnost>Редактор</Dolzhnost></td>
+<td><DatePriemaNaRabotu>11.02.2007</DatePriemaNaRabotu></td>
+</tr>
+
+<tr>
+<td><Name>Кирилл</Name></td>
+<td><Otchestvo>Константинович</Otchestvo></td>
+<td><Dolzhnost>Программист</Dolzhnost></td>
+<td><DatePriemaNaRabotu>30.01.2010</DatePriemaNaRabotu></td>
+</tr>
+<table>
+
+</Sotrudnik>
+</Root>
